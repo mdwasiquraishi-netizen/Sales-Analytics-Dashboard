@@ -46,7 +46,7 @@ Average Order Value	Measures average revenue per order
 Profit Margin	Measures profitability relative to sales
 Sales Growth/Trend	Tracks performance over time
 
-## 6)-Observation
+## 6)-Observations
 The dashboard provides several useful areas of analysis:
 
 ### 1. Sales Performance
@@ -77,6 +77,54 @@ A segment with high sales but low profit may require further investigation into 
 
 ### 6. Order and Quantity Analysis
 
+Order volume and quantity sold provide insight into customer purchasing behavior and overall transaction activity.
+
+### 7. Identification of High and Low Performers
+
+The dashboard helps identify top-performing products, categories, regions, and time periods while also highlighting areas with weaker performance.
+
+## 7)-Deliverables
+<a href="
+
+
+## Recommendations
+Based on the type of analysis performed through the dashboard, the following business recommendations can be considered:
+
+### 1. Focus on High-Performing Products
+
+Products and categories contributing significantly to sales should be prioritized for inventory planning and marketing campaigns.
+
+### 2. Improve Underperforming Categories
+
+Low-performing categories should be analyzed to understand whether the problem is related to pricing, demand, product selection, promotion, or competition.
+
+### 3. Monitor Profitability
+
+Sales should not be evaluated alone. Management should also monitor profit and profit margin to ensure that increased sales translate into sustainable profits.
+
+### 4. Optimize Regional Strategy
+
+High-performing regions can be used as benchmarks, while low-performing regions should be investigated for potential growth opportunities.
+
+### 5. Analyze Seasonal Trends
+
+Identifying high-demand periods can help improve inventory planning, promotional campaigns, and resource allocation.
+
+### 6. Increase Average Order Value
+
+Businesses can consider strategies such as:
+
+Product bundles
+Cross-selling
+Upselling
+Promotional offers
+Volume-based discounts
+
+to increase the average value of each order.
+
+### 7. Use the Dashboard for Regular Monitoring
+
+The dashboard can be updated periodically with new sales data to monitor business performance and support data-driven decision-making.
 Order volume and quantity sold provide insight into customer purchasing behavior and overall transaction activity.
 
 ### 7. Identification of High and Low Performers
