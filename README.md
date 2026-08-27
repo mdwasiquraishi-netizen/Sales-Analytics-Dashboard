@@ -85,6 +85,7 @@ The dashboard helps identify top-performing products, categories, regions, and t
 
 ## 7)-Deliverables
 - <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Dataset.xlsm">Dataset</a>
+- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Pivot%20table.png">Pivot Table</a>
 - <a href="
 
 
