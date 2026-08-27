@@ -7,7 +7,7 @@ The primary objective of this project is to analyze sales performance and help u
 
 ## 3)-Data Information
 The dataset contains sales-related information that can be used to analyze business performance across different dimensions.
-Typical information analyzed includes:
+### Typical information analyzed includes:
 •	Order/Sales information
 •	Product or Category
 •	Sales Amount
@@ -17,7 +17,7 @@ Typical information analyzed includes:
 •	Region/Location
 •	Order Date
 •	Sales performance over time
-Dataset Purpose
+### Dataset Purpose
 The dataset was prepared and analyzed to identify:
 •	Overall sales performance
 •	Best-performing products/categories
@@ -46,7 +46,18 @@ Average Order Value	Measures average revenue per order
 Profit Margin	Measures profitability relative to sales
 Sales Growth/Trend	Tracks performance over time
 
-## 6)-Observations
+## 6)-Deliverables
+- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Dataset.xlsm">Dataset</a>
+- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Pivot%20table.png">Pivot Table</a>
+- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Dashboard.png">Dashboard</a>
+
+## 7)-Dataset Preview
+<img width="1343" height="665" alt="Sales Analytics Dashboard" src="https://github.com/user-attachments/assets/32418bd5-abcb-42b8-8367-469d19b9a3f9" />
+<img width="1324" height="613" alt="Sales Analytics Pivot table" src="https://github.com/user-attachments/assets/5552aae9-72f8-47c7-b23c-7caf9c3e8d13" />
+
+
+
+## 8)-Observations
 The dashboard provides several useful areas of analysis:
 
 ### 1. Sales Performance
@@ -83,13 +94,8 @@ Order volume and quantity sold provide insight into customer purchasing behavior
 
 The dashboard helps identify top-performing products, categories, regions, and time periods while also highlighting areas with weaker performance.
 
-## 7)-Deliverables
-- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Dataset.xlsm">Dataset</a>
-- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Pivot%20table.png">Pivot Table</a>
-- <a href="
 
-
-## Recommendations
+## 9)-Recommendations
 Based on the type of analysis performed through the dashboard, the following business recommendations can be considered:
 
 ### 1. Focus on High-Performing Products
@@ -122,13 +128,7 @@ Upselling
 Promotional offers
 Volume-based discounts
 
-to increase the average value of each order.
+to increase the average value of each order
 
-### 7. Use the Dashboard for Regular Monitoring
-
-The dashboard can be updated periodically with new sales data to monitor business performance and support data-driven decision-making.
-Order volume and quantity sold provide insight into customer purchasing behavior and overall transaction activity.
-
-### 7. Identification of High and Low Performers
-
-The dashboard helps identify top-performing products, categories, regions, and time periods while also highlighting areas with weaker performance.
+## Conclusions
+Overall, the dashboard can help businesses make data-driven decisions, identify growth opportunities, improve sales strategies, and monitor overall performance.
