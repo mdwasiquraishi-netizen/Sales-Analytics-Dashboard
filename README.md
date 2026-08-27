@@ -84,7 +84,8 @@ Order volume and quantity sold provide insight into customer purchasing behavior
 The dashboard helps identify top-performing products, categories, regions, and time periods while also highlighting areas with weaker performance.
 
 ## 7)-Deliverables
-<a href="
+- <a href="https://github.com/mdwasiquraishi-netizen/Sales-Analytics-Dashboard/blob/main/Sales%20Analytics%20Dataset.xlsm">Dataset</a>
+- <a href="
 
 
 ## Recommendations
